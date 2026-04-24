@@ -1,0 +1,6 @@
+flask
+Flask-Mail
+python-dotenv
+razorpay
+supabase
+Authlib
